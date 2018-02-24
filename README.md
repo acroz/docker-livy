@@ -45,6 +45,3 @@ If there is plain version tag without prefix it is synchronized with the version
 It there is a prefix (eg. HDP) it includes a specific version from a specific distribution.
 
 As the configuration loading in the base image is constantly evolving even the tags of older releases may be refreshed over the time.
-
-**As livy currently only supports spark 1.6 the latest version is based on the latest stable 1.6.**
-
