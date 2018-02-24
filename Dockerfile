@@ -1,4 +1,4 @@
-FROM elek/spark-base:1.6.2
+FROM elek/spark-base
 ENV HADOOP_CONF_DIR /opt/livy/conf
 ENV CONF_DIR /opt/livy/conf
 ENV SPARK_HOME /opt/spark
